@@ -3,10 +3,11 @@
 #-
 #  type: github
 #  icon: 'fab fa-github'
-
- # type: email
- # icon: 'fas fa-envelope'
- # noblank: true            # open link in current tab
+#-
+#  type: email
+#  icon: 'fas fa-envelope'
+#  noblank: true            # open link in current tab
+#- 
  #-
   #type: rss
   #icon: 'fas fa-rss'
@@ -26,9 +27,9 @@
   icon: 'fa-solid fa-cube'
   url: 'https://app.hackthebox.com/profile/448812'
 -
-  type: twitter
-  icon: 'fab fa-twitter'
--
+#  type: twitter
+#  icon: 'fab fa-twitter'
+#-
 #   type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
