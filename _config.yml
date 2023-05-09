@@ -24,7 +24,7 @@ author: rootjack
 tagline: Sharing my offsec journey   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Sharing stuff I think is cool.
+  Sharing my offsec journey.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://rootjaxk.github.io'
