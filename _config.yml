@@ -21,7 +21,7 @@ timezone: Europe/London
 
 title: rootjack                          # the main title
 author: rootjack
-tagline: l33t h4x0r stuffs   # it will display as the sub-title
+tagline: Sharing my offsec journey   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Sharing my offsec journey.
