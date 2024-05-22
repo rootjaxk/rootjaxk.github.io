@@ -13,7 +13,7 @@ Just another penetration tester and CTF lover from the UK :D
 - Offensive Security Certified Wireless Professional (OSWP)
 - Certified Red Team Operator (CRTO)
 - Certified Red Team Professional (CRTP)
-- Vulnlab Red Team Labs: Shinra, Wutai  
+- Vulnlab Red Team Labs: Shiva, Shinra, Wutai  
 - HackTheBox Prolabs: Offshore, Zephyr
 
 > Feel free to reach out for a chat about all things offensive security!
